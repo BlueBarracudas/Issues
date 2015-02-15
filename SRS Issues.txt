@@ -1,0 +1,19 @@
+SRS issues:
+
+User Stories
+
+#2
+ - Revise pre-condition. The second option can be a separate User Story.
+ - Acceptance Criteria. Numbering is incorrect.
+
+#3
+ - Add a pre-condition.
+
+#8
+ - Acceptance Criteria. Numbering is incorrect.
+
+#12
+ - Check numbering.
+ - Elaborate on Acceptance Criteria.
+
+
